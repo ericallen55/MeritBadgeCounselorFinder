@@ -1,0 +1,11 @@
+html, body {
+    height:100%;
+    overflow: hidden;
+}
+
+.angular-google-map,
+.angular-google-map-container { 
+    height: 95%;
+    width: 100%;
+
+}

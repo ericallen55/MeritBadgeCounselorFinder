@@ -1,0 +1,9 @@
+{
+  "firebase": "meritbadgefinder",
+  "public": "C:\\Users\\Server\\Documents\\NetBeansProjects\\MeritBadgeCounselor\\public_html",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
